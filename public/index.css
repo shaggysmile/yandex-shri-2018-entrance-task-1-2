@@ -3,6 +3,9 @@ body,
 #map {
   margin: 0;
   padding: 0;
+  /* Add base height and witdth */
+  width: 100%;
+  height: 100%;
 }
 
 .details-info {
